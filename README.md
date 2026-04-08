@@ -1,4 +1,4 @@
-# Olá, eu sou o Gabriel Vesterlon! 👋
+# Olá, eu sou Gabriel Vesterlon! 👋
 
 Estudante de Engenharia Elétrica/Eletrônica na **UERJ**, focado em transformar teoria em soluções práticas através da tecnologia. 🚀
 
